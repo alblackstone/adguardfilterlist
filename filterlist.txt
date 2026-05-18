@@ -1,11 +1,10 @@
 @@||graph.facebook.com^$important
-||kelpie.saladexamples.com^
-||labs.openai.com^
-||registry-eu-01.salad.com^
-||salad.com^
-||salad.io^
-||nova.bg^
+||adobe.com^
 ||autodesk.com^
+||rhino3d.com^
+||vectorworks.net^
+||nemetschek.net^
+||clo3d.com^
 ||api.clo3d.com^
 ||sapi.clo3d.com^
 ||api.clo3d-china.com^
